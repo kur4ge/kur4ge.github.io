@@ -1,0 +1,8 @@
+# robots.txt 
+User-agent: *
+Disallow: /about/
+Disallow: /archives/
+Disallow: /categories/
+Disallow: /img/
+Disallow: /tags/
+Sitemap: https://blog.kur4ge.com/sitemap.xml
